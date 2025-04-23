@@ -1,0 +1,13 @@
+.koszyk {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    font-size: 1.2em;
+    text-align: center;
+}
+  
+.koszyk h3 {
+    color: #007bff;
+}
+  
